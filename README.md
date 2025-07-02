@@ -1,3 +1,3 @@
 This project forms part of the boot.dev lesson: "Build Asteroids using Python and Pygame".
 
-I am also using it to keep myself refreshed on git plumbing and techniques. 
+The version-1.0 branch is the original game as completed following the lessons on boot.dev. For additional features and current work in progress, see other branches. 

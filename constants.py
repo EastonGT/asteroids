@@ -14,3 +14,8 @@ PLAYER_SHOOT_COOLDOWN = 0.3  # seconds
 PLAYER_SHOOT_SPEED = 500
 
 SHOT_RADIUS = 5
+
+# v1.0-stable functions above
+# new variables below
+
+ASTEROID_SCORE_VALUE = 5 #points
